@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Play All Tests In Project">
+    <test name="AllTests">
+        <classes>
+            <class name="NewUserLogin"/>
+            <class name="ExistingUserLogin"/>
+            <class name="CreateNewRecord"/>
+            <class name="ExistingRecordSearch"/>
+            <class name="EditingExistingRecord"/>
+            <class name="DeleteRecord"/>
+        </classes>
+    </test>
+</suite>
